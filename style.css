@@ -1,0 +1,49 @@
+header{
+    font-family: 'Varela Round', sans-serif;
+}
+body{
+    font-family: 'Varela Round', sans-serif;
+}
+
+
+.navbar{
+    display: block;
+}
+h1{
+    font-size: 3em;
+}
+h2{
+    font-size: 1.9em;
+    font-weight:bold ;
+}
+h5{
+    font-size: 1.5em;
+}
+
+p{
+    font-size: large;
+}
+.allscr{
+    width: 900px;
+}
+
+.card{
+width: 400px;
+}
+
+
+.mountainColor{
+    background-color: #E7DCC4;
+}
+.imagess{
+width: 400px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.mrg{
+    margin: 50px 0 50px 0;
+}
