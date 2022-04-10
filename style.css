@@ -1,5 +1,6 @@
 header {
     font-family: 'Varela Round', sans-serif;
+    padding: 30px;
 }
 
 body {
@@ -12,8 +13,19 @@ body {
     display: block;
 }
 
+.headsearch{
+    width:400px ;
+    height: 40px;
+}
 .container {
     margin: 70px;
+}
+.bbb{
+    color: black;
+        
+}
+.ye{
+    text-align: left;
 }
 
 .hardov{
@@ -48,7 +60,7 @@ p {
 }
 
 .interasting {
-    background-color: #d9d9d9;
+    background-color: #f3f3f3;
     border: 1px solid ;
     ;
 }
