@@ -27,6 +27,14 @@ p{
     width: 900px;
 }
 
+
+.the_interest{
+    width: 127px;
+    height: 164px;
+    border: 1px solid  #a2a9b1;
+    background-color: #f8f9fa;
+    padding: 7;
+}
 .card{
 width: 400px;
 }
