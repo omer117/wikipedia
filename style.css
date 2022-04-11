@@ -1,6 +1,7 @@
 header {
     font-family: 'Varela Round', sans-serif;
     padding: 30px;
+    background-color: #ececec;
 }
 
 body {
@@ -12,6 +13,7 @@ body {
 .navbar {
     display: block;
 }
+
 
 .headsearch{
     width:400px ;
@@ -97,4 +99,8 @@ p {
 
 .mrg {
     margin: 50px 0 50px 0;
+}
+
+.sml-mrg{
+    margin:15px 0 15px 0;
 }
